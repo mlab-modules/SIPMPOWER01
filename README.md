@@ -1,5 +1,3 @@
-<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
-<!--- 00a56be08b96043df9e37d6aff7b6990 --->
 <!--- Created:Time: ---> 
 <!--- Author:Mlab: ---> 
 <!--- AuthorEmail:mlab@mlab.cz: ---> 
@@ -8,9 +6,11 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:module: --->
-#module 
+# SIPMPOWER01A
 <!--- LongName --->
-module description
+Batterry power module to old SIPM01A Silicon photomultiplier module. 
+Now is superseded by using the [STEPUPDC02](https://github.com/mlab-modules/STEPUPDC02) voltage converter. 
+
 <!--- ELongName ---> 
 
 <!--- Lead --->
