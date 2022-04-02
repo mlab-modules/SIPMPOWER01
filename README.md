@@ -8,7 +8,7 @@
 <!--- Name:module: --->
 # SIPMPOWER01A
 <!--- LongName --->
-Batterry power module to old SIPM01A Silicon photomultiplier module. 
+Batterry power module to old [SIPM01A](https://github.com/mlab-modules/SIPM01) Silicon photomultiplier module. 
 Now is superseded by using the [STEPUPDC02](https://github.com/mlab-modules/STEPUPDC02) voltage converter. 
 
 <!--- ELongName ---> 
