@@ -5,12 +5,12 @@ github_branches:
 github_repo: SIPMPOWER01
 github_url: https://github.com/mlab-modules/SIPMPOWER01
 homepage: false
-replaced: STEPUPDC02
 images: []
 issues: 0
 mark: 30
+replaced: STEPUPDC02
 tags:
 - mlab
 - mlab-module
 title: SIPMPOWER01
-updated: '2023-07-10T00:42:45.885815+00:00'
+updated: '2023-07-20T07:46:21.205566+00:00'
