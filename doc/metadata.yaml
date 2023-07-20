@@ -5,9 +5,10 @@ github_branches:
 github_repo: SIPMPOWER01
 github_url: https://github.com/mlab-modules/SIPMPOWER01
 homepage: false
+replaced: STEPUPDC02
 images: []
 issues: 0
-mark: 50
+mark: 30
 tags:
 - mlab
 - mlab-module
