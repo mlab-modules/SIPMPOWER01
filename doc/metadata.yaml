@@ -12,5 +12,8 @@ replaced: STEPUPDC02
 tags:
 - mlab
 - mlab-module
+- dcdc-converter
+- power-supply
+- sipm
 title: SIPMPOWER01
-updated: '2023-07-20T07:46:21.205566+00:00'
+updated: '2023-07-20T07:47:59.782721+00:00'
