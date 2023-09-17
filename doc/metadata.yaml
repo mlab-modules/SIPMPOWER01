@@ -1,8 +1,10 @@
-description: null
+description: Batterry power module to obsolete SIPM01A Silicon photomultiplier module.
+  Now is superseded by using the STEPUPDC02 voltage converter.
 github_branch: SIPMPOWER01A
 github_branches:
 - SIPMPOWER01A
-github_description: null
+github_description: Batterry power module to obsolete SIPM01A Silicon photomultiplier
+  module. Now is superseded by using the STEPUPDC02 voltage converter.
 github_repo: SIPMPOWER01
 github_url: https://github.com/mlab-modules/SIPMPOWER01
 homepage: false
@@ -18,4 +20,4 @@ tags:
 - power-supply
 - sipm
 title: SIPMPOWER01
-updated: '2023-09-17T11:30:01.403758+00:00'
+updated: '2023-09-17T11:49:56.044285+00:00'
