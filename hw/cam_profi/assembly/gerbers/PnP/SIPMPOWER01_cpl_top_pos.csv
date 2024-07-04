@@ -1,0 +1,22 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"BT1","BH23APC","BH23APC",26.6700,6.9850,0.0000,top
+"BT2","BH23APC","BH23APC",18.4150,20.3200,180.0000,top
+"BT3","BH23APC","BH23APC",26.6700,33.6550,180.0000,top
+"C2","470uF/50V - GT470/50","CP_Radial_D10.0mm_P5.00mm",42.5450,22.8600,-90.0000,top
+"J1","HEADER_2x01_PARALLEL","Straight_2x01",47.6250,2.5400,0.0000,top
+"J2","HEADER_2x01_PARALLEL","Straight_2x01",47.6250,5.0800,0.0000,top
+"J3","HEADER_2x01_PARALLEL","Straight_2x01",47.6250,33.0200,0.0000,top
+"J4","HEADER_2x01_PARALLEL","Straight_2x01",47.6250,35.5600,0.0000,top
+"J5","HEADER_2x01_PARALLEL","Straight_2x01",47.6250,38.1000,0.0000,top
+"J6","JUMP2_2x1","Straight_1x02",46.3550,11.4300,0.0000,top
+"J7","HEADER_2x01","Straight_1x02",2.0320,29.7180,0.0000,top
+"J8","HEADER_2x01","Straight_1x02",4.5720,29.7180,0.0000,top
+"J9","HEADER_2x01","Straight_1x02",7.1120,29.7180,0.0000,top
+"M1","HOLE","MountingHole_3mm",55.8800,35.5600,0.0000,top
+"M2","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"M3","HOLE","MountingHole_3mm",5.0800,35.5600,0.0000,top
+"M4","HOLE","MountingHole_3mm",55.8800,5.0800,0.0000,top
+"RV1","3296W-10k","Potentiometer_Bourns_3296W_Vertical",57.7850,28.5750,0.0000,top
+"RV2","3296W-10k","Potentiometer_Bourns_3296W_Vertical",57.7850,22.8600,0.0000,top
+"RV3","3296W-10k","Potentiometer_Bourns_3296W_Vertical",57.7850,17.1450,0.0000,top
+"RV4","3296W-10k","Potentiometer_Bourns_3296W_Vertical",57.7850,11.4300,0.0000,top
