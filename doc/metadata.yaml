@@ -8,6 +8,7 @@ github_description: Batterry power module to obsolete SIPM01A Silicon photomulti
 github_repo: SIPMPOWER01
 github_url: https://github.com/mlab-modules/SIPMPOWER01
 homepage: false
+image_title: doc/gen/img/SIPMPOWER01-top.png
 images:
 - doc/gen/img/SIPMPOWER01-bottom.png
 - doc/gen/img/SIPMPOWER01-top.png
