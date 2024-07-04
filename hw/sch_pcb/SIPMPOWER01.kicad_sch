@@ -1039,51 +1039,51 @@
     (uuid 47a561b4-7b3e-4e08-bc97-70dc18b5b836)
   )
 
-  (label "U2" (at 186.69 87.63 0)
+  (label "U2" (at 186.69 87.63 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 151967d0-f661-470a-959d-6132ed308d78)
   )
-  (label "U3" (at 218.44 87.63 0)
+  (label "U3" (at 218.44 87.63 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 18e48fae-2a93-47f5-a952-2170bd76ad05)
   )
-  (label "U1" (at 255.27 99.06 0)
+  (label "U1" (at 255.27 99.06 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 31835bf1-c29e-45d7-91ac-740621baef83)
   )
-  (label "U4" (at 250.19 87.63 0)
+  (label "U4" (at 250.19 87.63 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 5219ca29-614b-4385-95c8-b5724ecdde4e)
   )
-  (label "U2" (at 255.27 96.52 0)
+  (label "U2" (at 255.27 96.52 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 6196067c-f7b0-4887-97a0-0ab5eb6ccf67)
   )
-  (label "-" (at 74.422 49.276 0)
+  (label "-" (at 74.422 49.276 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 6f338749-c060-44a1-a5ea-48639b1b8743)
   )
-  (label "+" (at 27.94 101.6 0)
+  (label "+" (at 27.94 101.6 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 780aaad0-eb6a-4d69-a580-11bbca7d5312)
   )
-  (label "-" (at 27.94 73.66 0)
+  (label "-" (at 27.94 73.66 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 8b53a4cc-ce80-427d-bfbf-4df6518f6170)
   )
-  (label "U4" (at 255.27 91.44 0)
+  (label "U4" (at 255.27 91.44 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid a4345707-ffaa-4cdd-9f37-d5882dc84a76)
   )
-  (label "+" (at 59.69 32.766 0)
+  (label "+" (at 59.69 32.766 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid c721d729-8f4e-46f6-8c35-f32bb7005867)
   )
-  (label "U1" (at 154.94 87.63 0)
+  (label "U1" (at 154.94 87.63 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid d62243ec-b4e6-4638-af88-9d20396f001f)
   )
-  (label "U3" (at 255.27 93.98 0)
+  (label "U3" (at 255.27 93.98 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid e2949d3c-919c-4384-8108-2fc56d14a6aa)
   )
@@ -1105,7 +1105,7 @@
     )
     (pin "1" (uuid 785489db-395b-488a-a4e2-a44e202b079c))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "M1") (unit 1)
         )
@@ -1130,7 +1130,7 @@
     )
     (pin "1" (uuid 575c70c5-6598-44d9-8e07-ee6fd1aeb24a))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "M2") (unit 1)
         )
@@ -1155,7 +1155,7 @@
     )
     (pin "1" (uuid 63598bd4-b782-4de4-b5f2-51f2c9806d90))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "M3") (unit 1)
         )
@@ -1180,7 +1180,7 @@
     )
     (pin "1" (uuid bee60f2d-a0fd-416e-b6c3-a09602b16c8f))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "M4") (unit 1)
         )
@@ -1206,7 +1206,7 @@
     (pin "1" (uuid 27b2ef30-860b-4ef5-8e9d-1e1700e6518e))
     (pin "2" (uuid e52200bb-1d7b-4d67-9989-4d526bad75e6))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "BT1") (unit 1)
         )
@@ -1232,7 +1232,7 @@
     (pin "2" (uuid 207be53b-71cd-49e2-9810-4fffdc65059d))
     (pin "1" (uuid 71fcd217-6afe-4cb2-849a-4e5023ad7c8c))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "BT2") (unit 1)
         )
@@ -1258,7 +1258,7 @@
     (pin "2" (uuid 14bfd70a-652f-4844-8dfc-0f97c439c891))
     (pin "1" (uuid 098ae4ca-3449-42e1-872c-d808459e9fea))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "BT3") (unit 1)
         )
@@ -1284,7 +1284,7 @@
     (pin "2" (uuid 275f7464-5aec-4e91-be52-31fa7cbf0e08))
     (pin "1" (uuid 0b0e4533-3462-44c0-a0db-8554812f4fc9))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R1") (unit 1)
         )
@@ -1310,7 +1310,7 @@
     (pin "2" (uuid 492d62c2-ae9b-4bbf-a1c5-fcb0efab4765))
     (pin "1" (uuid dbb5da37-f4dc-4a18-bf32-bc7b16ac0d54))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R2") (unit 1)
         )
@@ -1337,7 +1337,7 @@
     (pin "2" (uuid f2e16921-e406-4f9d-91ae-09d6e67b1a52))
     (pin "3" (uuid ce9b06b4-69b0-4fc0-b4b9-fc933639986e))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "RV1") (unit 1)
         )
@@ -1363,7 +1363,7 @@
     (pin "2" (uuid 45a9e29d-623e-4664-b6dd-f864b17b4121))
     (pin "1" (uuid 55e6cb78-3ffb-4aff-94e6-783e71aac6e3))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C2") (unit 1)
         )
@@ -1389,7 +1389,7 @@
     (pin "2" (uuid 3cf9cc7b-fcf2-4707-8272-f7aea6fd2f77))
     (pin "1" (uuid b24b7a28-353b-47dc-a272-fb51951b868f))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C3") (unit 1)
         )
@@ -1415,7 +1415,7 @@
     (pin "1" (uuid 9a170a7d-6110-4aa1-b784-d1f3161ab209))
     (pin "2" (uuid eac5e738-5b49-4473-8584-183f4802933e))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C4") (unit 1)
         )
@@ -1441,7 +1441,7 @@
     (pin "1" (uuid d496f073-7cb4-4a59-8afc-213759dbd127))
     (pin "2" (uuid e08e8f11-81e3-48d3-8e9d-e83c46a11bd5))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C5") (unit 1)
         )
@@ -1466,7 +1466,7 @@
     )
     (pin "1" (uuid de85b4c5-6bbf-4931-bf41-b14daf0f3d61))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "#PWR0101") (unit 1)
         )
@@ -1492,7 +1492,7 @@
     (pin "2" (uuid 0c750bc9-1969-441b-aa70-181e2c9c444e))
     (pin "1" (uuid 1ac250bf-89a0-442d-8d80-d69b4e08e14a))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R3") (unit 1)
         )
@@ -1518,7 +1518,7 @@
     (pin "2" (uuid a583b203-6266-43c8-ba5d-59e254272ab4))
     (pin "1" (uuid f9df3f45-c778-4d93-b7a5-9e425f111522))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R4") (unit 1)
         )
@@ -1545,7 +1545,7 @@
     (pin "3" (uuid 7d098d4b-9487-4816-90cc-2c6e8bfb98f5))
     (pin "1" (uuid 6426eee1-8e6f-45c4-893e-692d07ad8471))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "RV2") (unit 1)
         )
@@ -1571,7 +1571,7 @@
     (pin "1" (uuid 9c5fdaac-5208-489f-be75-659c0e695384))
     (pin "2" (uuid a6f4e34d-ff9b-4824-96d8-401bce3c27f0))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R5") (unit 1)
         )
@@ -1597,7 +1597,7 @@
     (pin "1" (uuid 72b48152-4d8b-4d6a-9bfa-3a4c01b18c94))
     (pin "2" (uuid 64d05616-0272-4259-a311-ef199cb35f7f))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R6") (unit 1)
         )
@@ -1624,7 +1624,7 @@
     (pin "3" (uuid 8be8df2a-ffee-467e-8a51-5103ca4cc4b3))
     (pin "1" (uuid 87011abd-bcc5-4558-8eb0-2d314a9c9ee6))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "RV3") (unit 1)
         )
@@ -1650,7 +1650,7 @@
     (pin "1" (uuid 111bf048-2f61-454f-8529-c861b2f1d06a))
     (pin "2" (uuid 748efe63-3f08-4395-bc1d-2e7dbdce5526))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R7") (unit 1)
         )
@@ -1676,7 +1676,7 @@
     (pin "1" (uuid b88f5f6d-a07a-4fbf-a196-6ad312dd9073))
     (pin "2" (uuid fb6bac25-a5e0-43fe-8069-269fb6c68597))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "R8") (unit 1)
         )
@@ -1703,7 +1703,7 @@
     (pin "2" (uuid 8af76331-c2c3-4442-a838-3dadc8732d2f))
     (pin "3" (uuid 12ce684e-d22e-487c-a31e-ce1b75082d09))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "RV4") (unit 1)
         )
@@ -1729,7 +1729,7 @@
     (pin "1" (uuid 05ced297-4591-41c4-b562-1f058d2866aa))
     (pin "2" (uuid ac974019-01b1-463d-80b5-5c2b7bfe41a7))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J6") (unit 1)
         )
@@ -1756,7 +1756,7 @@
     (pin "3" (uuid acfb0613-770f-4f35-85be-97ff83190675))
     (pin "2" (uuid 0abfbf46-5129-4b30-b761-f682f0052816))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C1") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "1" (uuid 14b031d2-fda0-4894-a90a-9be1151624af))
     (pin "2" (uuid 81b3b511-5729-4c2d-8922-60dfe371619d))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J5") (unit 1)
         )
@@ -1808,7 +1808,7 @@
     (pin "2" (uuid df3ecb12-6356-4cdf-ab9e-ecb81a1f13d7))
     (pin "1" (uuid 340b329b-3905-42ad-9869-14ee0be63fbe))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J4") (unit 1)
         )
@@ -1834,7 +1834,7 @@
     (pin "1" (uuid 2b01ccae-074e-48f0-9a12-e6e2b5a9cd86))
     (pin "2" (uuid 00034b68-c74d-4c99-b1ee-6515b3c7fbbd))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J3") (unit 1)
         )
@@ -1860,7 +1860,7 @@
     (pin "1" (uuid f60dda44-3bb2-4ec7-adc8-6842b122c2b8))
     (pin "2" (uuid 54a59974-908e-4465-ab48-6f00ec813c52))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J2") (unit 1)
         )
@@ -1886,7 +1886,7 @@
     (pin "2" (uuid aab4ae94-650d-4bf3-8a01-7084f9552978))
     (pin "1" (uuid 0ddec9fb-9fea-451a-8d6e-dac8864bb5aa))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J1") (unit 1)
         )
@@ -1912,7 +1912,7 @@
     (pin "2" (uuid fdbaea20-d82b-4d69-aa35-65ee73b75c44))
     (pin "1" (uuid 7a74e33a-6480-42ba-bb70-a7102b202599))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C6") (unit 1)
         )
@@ -1938,7 +1938,7 @@
     (pin "1" (uuid f58c7972-7cca-4bfa-91c2-0ab2164a2c4a))
     (pin "2" (uuid 3675dcec-c9ef-4c9c-a240-653893e7f60d))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C7") (unit 1)
         )
@@ -1964,7 +1964,7 @@
     (pin "1" (uuid b7396ecd-5082-40de-ba08-3aa5d9ca9c32))
     (pin "2" (uuid 8daaf7de-40e0-4318-925d-3afbc594b560))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C8") (unit 1)
         )
@@ -1990,7 +1990,7 @@
     (pin "1" (uuid e60101d0-faeb-409c-a1f6-bfa066cc3146))
     (pin "2" (uuid b4644f0a-98f8-4168-a3d3-33f9be4037d3))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "C9") (unit 1)
         )
@@ -2016,7 +2016,7 @@
     (pin "2" (uuid 6bc18e94-85a5-4402-919e-13060e2afe83))
     (pin "1" (uuid 8c7f36ec-c5d9-4d2e-805e-81bd3379e062))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J7") (unit 1)
         )
@@ -2042,7 +2042,7 @@
     (pin "2" (uuid 338d26ba-fb51-4ea2-8f97-2a2aaec359d0))
     (pin "1" (uuid 2f09d008-28fc-47ba-8fe9-1c07033ef6d4))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J8") (unit 1)
         )
@@ -2068,7 +2068,7 @@
     (pin "2" (uuid 23cf27d6-383b-4382-80ad-a98948d274c9))
     (pin "1" (uuid 65e5fd13-71d4-4ae3-a544-4ee96de74d26))
     (instances
-      (project "SIPMPOWER01A"
+      (project "SIPMPOWER01"
         (path "/c15d53f9-aaab-4e47-969e-43fd84db01f9"
           (reference "J9") (unit 1)
         )
