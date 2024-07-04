@@ -8,9 +8,18 @@ github_description: Batterry power module to obsolete SIPM01A Silicon photomulti
 github_repo: SIPMPOWER01
 github_url: https://github.com/mlab-modules/SIPMPOWER01
 homepage: false
-images: []
+images:
+- doc/gen/img/SIPMPOWER01-bottom.png
+- doc/gen/img/SIPMPOWER01-top.png
+- doc/gen/SIPMPOWER01-schematic.svg
+- doc/gen/img/SIPMPOWER01-bottom.svg
+- doc/gen/img/SIPMPOWER01-top.svg
+- hw/cam_profi/assembly/SIPMPOWER01-assembly_page_01.svg
+- hw/cam_profi/assembly/SIPMPOWER01-assembly_page_02.svg
 issues: 0
 mark: 30
+mod_ibom: hw/cam_profi/SIPMPOWER01-ibom.html
+mod_scheme: doc/gen/SIPMPOWER01-schematic.pdf
 replaced: STEPUPDC02
 status: 3
 tags:
@@ -20,4 +29,4 @@ tags:
 - power-supply
 - sipm
 title: SIPMPOWER01
-updated: '2024-07-04T22:02:48.978641+00:00'
+updated: '2024-07-04T22:04:44.291722+00:00'
